@@ -1,0 +1,67 @@
+
+/* cuadrados grande */
+
+#grande {
+
+	width: 300px;
+	height: 300px;
+	margin: 20px;
+
+}
+
+.rojo {
+
+	background-color: red;
+}
+
+.azul {
+
+	background-color: blue;
+}
+
+
+
+/* cuadrados medianos */
+
+#mediano {
+
+	width: 150px;
+	height: 150px;
+	position: relative;
+
+}
+
+
+.morado {
+
+	background-color: purple;
+    top: 75px;
+	left: 75px;
+}
+
+
+.verde {
+
+	background-color: green;
+	left: 75px;
+}
+
+
+/* cuadrados pequeños */
+
+#pequeño {
+
+	width: 75px;
+	height: 75px;
+}
+
+.amarillo{
+
+	background-color: yellow;
+
+}
+
+.negro {
+
+	background-color: black;
+}
